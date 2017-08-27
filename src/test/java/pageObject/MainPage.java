@@ -12,7 +12,7 @@ public class MainPage {
     public WebElement joinNowBtn;
 
     //Actions
-    public void joinNow ()
+    public void joinNowClick()
     {
         joinNowBtn.click();
     }
